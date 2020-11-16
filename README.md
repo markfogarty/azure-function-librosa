@@ -1,6 +1,8 @@
 # azure-function-librosa
 testing libsndfile errors in python azure functions
 
+local vscode
+
 first run
 
 pip wheel -r requirements.txt -w wheelhouse
